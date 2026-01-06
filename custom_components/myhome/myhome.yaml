@@ -1,0 +1,912 @@
+gateway:
+  mac: '00:03:50:xx:xx:xx'
+  light:
+    light_faretti_cucina:
+      where: '0110'
+      name: Faretti cucina
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretto_forno_pizze:
+      where: '19'
+      name: Faretto forno pizze
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_pendenti_snack:
+      where: '18'
+      name: Pendenti Snack
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_gola_cucina:
+      where: '0010'
+      name: Gola cucina
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_strip_led_cucina:
+      where: '09'
+      name: Strip led cucina
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_vetro_cucina:
+      where: '08'
+      name: Vetro cucina
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_gola_bagno_matrimoniale:
+      where: '52'
+      name: Gola bagno matrimoniale
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_specchio_bagno_matrimoniale:
+      where: '51'
+      name: Specchio bagno matrimoniale
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_rgb_doccia:
+      where: '0415'
+      name: RGB doccia
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_e_gola_bagno_ospiti:
+      where: '0313'
+      name: Faretti e gola bagno ospiti
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_specchio_bagno_ospiti:
+      where: '0312'
+      name: Specchio bagno ospiti
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_rgb_doccia_ospiti:
+      where: '0311'
+      name: RGB doccia ospiti
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_aspiratore_bagno_ospiti:
+      where: '0310'
+      name: Aspiratore bagno ospiti
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luci_ripostiglio_tv:
+      where: '03'
+      name: Luci Ripostiglio tv
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_specchio_lavanderia:
+      where: '0212'
+      name: Specchio lavanderia
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_lavanderia:
+      where: '0211'
+      name: Faretti Lavanderia
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_rgb_doccia_cameretta:
+      where: '0414'
+      name: RGB doccia cameretta
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_specchio_bagno_cameretta:
+      where: '0413'
+      name: Specchio bagno cameretta
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_gola_bagno_cameretta:
+      where: '0412'
+      name: Gola bagno cameretta
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_garage_centrale:
+      where: '30'
+      name: Luce Garage centrale 
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_garage_ingresso:
+      where: '43'
+      name: Luce Garage ingresso
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_impianto_convettori:
+      where: '40'
+      name: Impianto Convettori
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_impianto_pavimento:
+      where: '50'
+      name: Impianto Pavimento
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_applique_terrazza_dietro:
+      where: '31'
+      name: Applique terrazza dietro
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_presa_comandata_2:
+      where: '10'
+      name: Presa Comandata 2
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_presa_comandata_terrazza_dietro:
+      where: '0215'
+      name: Presa comandata terrazza dietro
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_segnapassi_terrazza_dietro:
+      where: '0214'
+      name: Segnapassi terrazza dietro
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_entrata_portone:
+      where: '0213'
+      name: Luce entrata Portone
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_deposito:
+      where: '72'
+      name: Luce Deposito
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_gola_sopra_scala:
+      where: '42'
+      name: Gola sopra scala
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luci_corridoio_ospiti:
+      where: '46'
+      name: Luci corridoio ospiti
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_paline_basse_gazebo:
+      where: '0811'
+      name: Paline basse Gazebo
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_paletti_sosta_auto:
+      where: '82'
+      name: Paletti Sosta Auto
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_71:
+      where: '71'
+      name: Luce 71
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_proiettori_centrali:
+      where: '81'
+      name: Proiettori centrali
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_stripled_laterale_scala:
+      where: '41'
+      name: Stripled laterale scala
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_su_scala_camino:
+      where: '45'
+      name: Faretti su scala camino
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_86:
+      where: '86'
+      name: Luce 86
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_cilindri_scala:
+      where: '0315'
+      name: Cilindri scala
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_presa_comandata_scala:
+      where: '0314'
+      name: Presa comandata scala
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_proiettori_lato_ulivo:
+      where: '0715'
+      name: Proiettori lato ulivo
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_paline_alte_viale:
+      where: '84'
+      name: Paline Alte Viale
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_paline_alte_gazebo:
+      where: '0810'
+      name: Paline Alte Gazebo
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_stripled__scala_studio:
+      where: '13'
+      name: Stripled  scala studio
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_gazebo:
+      where: '89'
+      name: Gazebo
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_segnapassi_fuori_cancello:
+      where: '0712'
+      name: Segnapassi fuori cancello
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_paline_basse_lato_ulivo:
+      where: '0714'
+      name: Paline basse lato ulivo
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_segnapassi_interni:
+      where: '0711'
+      name: Segnapassi interni
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_presa_comandata_divano:
+      where: '12'
+      name: Presa comandata divano
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_pilastri_cancello:
+      where: '0713'
+      name: Pilastri cancello
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_presa_comandata_giradischi:
+      where: '11'
+      name: Presa Comandata giradischi
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_88:
+      where: '88'
+      name: Luce 88
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_presa_comandata_muretto:
+      where: '0015'
+      name: Presa comandata muretto
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_gola_cabina_armadio:
+      where: '53'
+      name: Gola cabina armadio
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_tavolo_pranzo:
+      where: '23'
+      name: Faretti tavolo pranzo
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_presa_camino:
+      where: '22'
+      name: Presa camino
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_specchio_bagno_deposito:
+      where: '64'
+      name: Specchio bagno deposito
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_gola_rgb:
+      where: '21'
+      name: Gola rgb
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luci_e_aspiratore_bagno_deposito:
+      where: '63'
+      name: Luci e aspiratore bagno deposito
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_pietra_cantina:
+      where: '62'
+      name: Pietra cantina
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_applique_cantina:
+      where: '61'
+      name: Applique Cantina
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_gola_pranzo_1:
+      where: '35'
+      name: Gola Pranzo 1
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_34:
+      where: '34'
+      name: Luce 34
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_33:
+      where: '33'
+      name: Luce 33
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_32:
+      where: '32'
+      name: Luce 32
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_gola_studio:
+      where: '06'
+      name: Gola studio
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_strip_studio_retro:
+      where: '05'
+      name: Strip studio retro
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_applique_fuori_camera_ospiti:
+      where: '17'
+      name: Applique fuori camera ospiti
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_pendente_letto_1_matrimoniale:
+      where: '57'
+      name: Pendente letto 1 matrimoniale
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_prese_com_balconi:
+      where: '16'
+      name: Prese com Balconi
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_pendente_letto_2_matrimoniale:
+      where: '56'
+      name: Pendente letto 2 matrimoniale
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_segnapassi_facciata:
+      where: '15'
+      name: Segnapassi facciata
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luci_bbq:
+      where: '14'
+      name: Luci BBQ
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_stripled_rgb_letto:
+      where: '55'
+      name: Stripled rgb letto
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_cabina_armadio:
+      where: '54'
+      name: Faretti cabina armadio
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_ospiti:
+      where: '28'
+      name: Faretti ospiti
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_applique_scala_deposito:
+      where: '68'
+      name: Applique scala deposito
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_gola_ospiti:
+      where: '27'
+      name: Gola ospiti
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_applique_lavabo_cantina:
+      where: '67'
+      name: Applique lavabo cantina
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_applique_letto_sx:
+      where: '26'
+      name: Applique letto sx
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_segnapassi_scala_cantina:
+      where: '66'
+      name: Segnapassi scala cantina
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_applique_letto_dx:
+      where: '25'
+      name: Applique letto dx
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_65:
+      where: '65'
+      name: Luce 65
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_presa_parete_sospesa:
+      where: '39'
+      name: Presa parete sospesa
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_strip_led_camino:
+      where: '38'
+      name: Strip led Camino
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_quadrati_pranzo:
+      where: '37'
+      name: Faretti quadrati pranzo
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_camino:
+      where: '36'
+      name: Faretti camino
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_stripled_ingresso_matrimoniale:
+      where: '0410'
+      name: Stripled ingresso matrimoniale
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_07:
+      where: '07'
+      name: Luce 07
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_camera_matrimoniale:
+      where: '48'
+      name: Faretti camera matrimoniale
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_presa_comandata_camera_matrimoniale:
+      where: '47'
+      name: Presa comandata Camera matrimoniale
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faresti_colonne:
+      where: '0111'
+      name: Faresti colonne
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_applique_letti_cameretta:
+      where: '0511'
+      name: Applique letti cameretta
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_cameretta:
+      where: '0510'
+      name: Faretti Cameretta
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_gole_cameretta:
+      where: '59'
+      name: Gole cameretta
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_corridoio_sopra:
+      where: '58'
+      name: Faretti corridoio sopra
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretto_ripostiglio_studio:
+      where: '0210'
+      name: Faretto ripostiglio studio
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_cono_salotto_2:
+      where: '29'
+      name: Faretti Cono salotto 2
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_estrattore_bbq:
+      where: '0013'
+      name: Estrattore BBQ
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_applique_scena_laterali:
+      where: '0012'
+      name: Applique scena laterali
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_applique_scena_frontali:
+      where: '0011'
+      name: Applique scena frontali
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_0411:
+      where: '0411'
+      name: Luce 0411
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_quadrati_divano_1:
+      where: '0115'
+      name: Faretti quadrati divano 1
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_anticantina:
+      where: '0515'
+      name: Faretti anticantina
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_quadrati_divano_2:
+      where: '0114'
+      name: Faretti quadrati divano 2
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_stripled_carrello:
+      where: '0514'
+      name: Stripled carrello
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_cono_salotto_1:
+      where: '0113'
+      name: Faretti Cono salotto 1
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_corridoio_deposito:
+      where: '0513'
+      name: Luce corridoio deposito
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_stripled_rgb_arco_salotto:
+      where: '0112'
+      name: Stripled RGB arco salotto
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_faretti_pavimento_cantina:
+      where: '0512'
+      name: Faretti pavimento cantina
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_cancello_pedonale:
+      where: '87'
+      name: Cancello Pedonale
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_luce_soffusa_camera_matrimoniale?:
+      where: '49'
+      name: Luce soffusa camera matrimoniale?
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_applique_fuori_cucina:
+      where: '0014'
+      name: Applique fuori cucina
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_piantana_studio:
+      where: '04'
+      name: Piantana Studio
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_fontanell:
+      where: '85'
+      name: Fontanell
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_lampadario_pranzo:
+      where: '24'
+      name: Lampadario Pranzo
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_camino:
+      where: '79'
+      name: Camino
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_cancello:
+      where: '0710'
+      name: Cancello
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+    light_garage:
+      where: '83'
+      name: Garage
+      dimmable: False
+      manufacturer: bticino
+      model: F411U2
+  cover:
+    cover_finestra_arco_pranzo:
+      where: '44'
+      name: Finestra arco pranzo
+      advanced: False
+      manufacturer: bticino
+      model: LN4661M2
+    cover_tenda_velux_cucin:
+      where: '02'
+      name: Tenda velux cucin
+      advanced: False
+      manufacturer: bticino
+      model: LN4661M2
+    cover_finestra_piccola_pranzo:
+      where: '78'
+      name: Finestra piccola pranzo
+      advanced: True
+      manufacturer: bticino
+      model: LN4661M2
+    cover_finestra_camera_ospiti:
+      where: '0613'
+      name: Finestra Camera Ospiti
+      advanced: True
+      manufacturer: bticino
+      model: LN4661M2
+    cover_romana_bagno_matrimoniale:
+      where: '76'
+      name: Romana bagno matrimoniale
+      advanced: True
+      manufacturer: bticino
+      model: LN4661M2
+    cover_finestra_bagno_cameretta:
+      where: '77'
+      name: Finestra bagno cameretta
+      advanced: True
+      manufacturer: bticino
+      model: LN4661M2
+    cover_finestra_cameretta:
+      where: '0614'
+      name: Finestra cameretta
+      advanced: True
+      manufacturer: bticino
+      model: LN4661M2
+    cover_tapparella_cabina_armadio:
+      where: '75'
+      name: Tapparella cabina armadio
+      advanced: True
+      manufacturer: bticino
+      model: LN4661M2
+    cover_balcone_cameretta:
+      where: '0612'
+      name: Balcone cameretta
+      advanced: True
+      manufacturer: bticino
+      model: LN4661M2
+    cover_tenda_piccola:
+      where: '0615'
+      name: Tenda Piccola
+      advanced: True
+      manufacturer: bticino
+      model: LN4661M2
+    cover_tenda_grande:
+      where: '69'
+      name: Tenda Grande
+      advanced: True
+      manufacturer: bticino
+      model: LN4661M2
+    cover_tenda_oscurante:
+      where: '0610'
+      name: Tenda Oscurante
+      advanced: True
+      manufacturer: bticino
+      model: LN4661M2
+    cover_romana_matrimoniale:
+      where: '0611'
+      name: Romana matrimoniale
+      advanced: True
+      manufacturer: bticino
+      model: LN4661M2
+  climate:
+    climate_termostato_cantina:
+      zone: '5'
+      name: Termostato Cantina
+      heat: True 
+      cool: False 
+      standalone: True 
+      manufacturer: bticino
+      model: LN4691
+    climate_termostato_kitchen:
+      zone: '6'
+      name: Termostato Kitchen
+      heat: True 
+      cool: False 
+      standalone: True 
+      manufacturer: bticino
+      model: LN4691
+    climate_termostato_camera_matrimonial:
+      zone: '7'
+      name: Termostato Camera Matrimonial
+      heat: True 
+      cool: False 
+      standalone: True 
+      manufacturer: bticino
+      model: LN4691
+    climate_termostato_camerett:
+      zone: '8'
+      name: Termostato Camerett
+      heat: True 
+      cool: False 
+      standalone: True 
+      manufacturer: bticino
+      model: LN4691
+    climate_termostato_bagno_matrimoniale:
+      zone: '9'
+      name: Termostato Bagno matrimoniale
+      heat: True 
+      cool: False 
+      standalone: True 
+      manufacturer: bticino
+      model: LN4691
+    climate_termostato_bagno_cameretta:
+      zone: '10'
+      name: Termostato Bagno cameretta
+      heat: True 
+      cool: False 
+      standalone: True 
+      manufacturer: bticino
+      model: LN4691
+    climate_termostato_sala_pranzo:
+      zone: '11'
+      name: Termostato Sala Pranzo
+      heat: True 
+      cool: False 
+      standalone: True 
+      manufacturer: bticino
+      model: LN4691
+    climate_termostato_living_room:
+      zone: '12'
+      name: Termostato Living room
+      heat: True 
+      cool: False 
+      standalone: True 
+      manufacturer: bticino
+      model: LN4691
+    climate_termostato_camera_ospiti:
+      zone: '13'
+      name: Termostato Camera Ospiti
+      heat: True 
+      cool: False 
+      standalone: True 
+      manufacturer: bticino
+      model: LN4691
+    climate_termostato_studio:
+      zone: '14'
+      name: Termostato Studio
+      heat: True 
+      cool: False 
+      standalone: True 
+      manufacturer: bticino
+      model: LN4691
+    climate_termostato_bagno_ospiti:
+      zone: '15'
+      name: Termostato Bagno ospiti
+      heat: True 
+      cool: False 
+      standalone: True 
+      manufacturer: bticino
+      model: LN4691
+    climate_termostato_lavanderia:
+      zone: '16'
+      name: Termostato Lavanderia
+      heat: True 
+      cool: False 
+      standalone: True 
+      manufacturer: bticino
+      model: LN4691
+  sensor:
+    sensor_misuratore_pompa_di_calore_f1:
+      where: '541'
+      name: Misuratore Pompa di Calore F1
+      class: power 
+      manufacturer: bticino
+      model: F52X
+    sensor_misuratore_pompa_di_calore_f3:
+      where: '543'
+      name: Misuratore Pompa di Calore F3
+      class: power 
+      manufacturer: bticino
+      model: F52X
+    sensor_misuratore_pompa_di_calore_f2:
+      where: '542'
+      name: Misuratore Pompa di Calore F2
+      class: power 
+      manufacturer: bticino
+      model: F52X
