@@ -1,5 +1,5 @@
-gateway:
-  mac: '00:03:50:xx:xx:xx'
+gateway: '192.168.1.108'
+  mac: '00:03:50:86:6C:68'
   light:
     light_faretti_cucina:
       where: '0110'
@@ -910,3 +910,4 @@ gateway:
       class: power 
       manufacturer: bticino
       model: F52X
+
