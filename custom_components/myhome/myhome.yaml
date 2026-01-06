@@ -1,4 +1,4 @@
-gateway: '192.168.1.108'
+gateway:
   mac: '00:03:50:86:6C:68'
   light:
     light_faretti_cucina:
@@ -910,4 +910,5 @@ gateway: '192.168.1.108'
       class: power 
       manufacturer: bticino
       model: F52X
+
 
